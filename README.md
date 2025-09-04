@@ -2,7 +2,7 @@
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/rcalicdan/async-mysqli-demo.git && cd async-mysqli-demo
+   git clone https://github.com/rcalicdan/Api-benchmark.git && cd Api-benchmark
    ```
 2. **Update Credentials:** Open the `index.php` file and change the `DB_HOST`, `DB_USER`, and `DB_PASS` and `DB_PORT` constants to match your MySQL server. The user you provide will need permission to `CREATE` and `DROP` databases.
 3. **Install Dependencies:** Run the following command in your project root to install the required dependencies:
