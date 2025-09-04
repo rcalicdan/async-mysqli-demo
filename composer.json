@@ -1,0 +1,17 @@
+{
+    "name": "acer/async-mysqli-demo",
+    "autoload": {
+        "psr-4": {
+            "Acer\\AsyncMysqliDemo\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Reymart A. Calicdan",
+            "email": "reymart.calicdan@evsu.edu.ph"
+        }
+    ],
+    "require": {
+        "rcalicdan/fiber-async": "dev-main"
+    }
+}
